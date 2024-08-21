@@ -1,6 +1,6 @@
 # Oficina Mecânica Senai
 
-## Sistema de Gestâo de Estoque para Oficina Mecânica
+## Sistema de Gestão de Estoque para Oficina Mecânica
 
 ![BD_OFICINAMECANICA2](https://github.com/gvnff/OficinaMecanica-SENAI/assets/151665002/29af9645-5642-4711-aa81-982345d5f129)
 
